@@ -6,11 +6,7 @@
 
 <hr>
 
-<div align='center'>
 
- ![victor's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=victor-luduvice&theme=transparent&show_icons=true&text_color=ffffff&hide_border=false&hide_title=true&height=100&text_bold=false)
- 
-</div>
 <h3 align="left">🚀My Skills</h3>
 
 #### **Web Development**
